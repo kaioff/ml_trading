@@ -14,6 +14,7 @@ In order to run the code make sure you are in the `dev` environment. To create a
 Once the enviroment is created just go to your terminal and type `conda activate dev` and to deactivate enviroment, `conda deactivate dev`.
 If you have any running the code, please go to the `requirements.txt` file and make sure to install the require packages and libraries as follow;
 
+![fi](5.png)
 
 # Outline
 - [Part 1: Establish a Baseline Performance](#part-1-establish-a-baseline-performance)
